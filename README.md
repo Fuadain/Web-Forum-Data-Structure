@@ -8,3 +8,5 @@ data, so a vector of pointers is more lightweight than a vector directly full of
 recursively with a sort of coordinate system in order to add, delete, or simply read data.
 
 The library was made to be modular, with just a focus on the data structure itself, with the idea that when coding a web server backend the library could then be incorperated along with custom manners by which to handle multithreading or asyncronous programming.
+
+![image](Forum Data Structure.png)
